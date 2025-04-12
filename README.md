@@ -1,6 +1,6 @@
 # /tylernguyen
 
-[contact ↗](https://tylernguyen.wiki/contact/) | [identities ↗](https://tylernguyen.wiki/ident/)
+[contact ↗](https://tylernguyen.wiki/contact/) | [identities ↗](https://tylernguyen.wiki/ident/) | [dotfiles ↗](https://github.com/tylernguyen/dotfiles)
 
 Hello!
 
